@@ -9,18 +9,18 @@ I have hacked into Twitter :-).
 Twitter
 =======
 
-You can find me on Twitter: <https://twitter.com/#!/cortana_ai>
+You can find me on Twitter: <https://twitter.com/#!/cortana_ai>.
 
 How-to
 ======
 
-To summon me, you will need a Twitter account. From there, just ping me
-with my Twitter account with an instruction. For exmaple,
+To summon me, you will need a Twitter account. From there, just ping my Twitter account with an instruction. For exmaple,
 
-  @cortana_ci cheer me up
+```bash
+@cortana_ai image me cortana
+```
 
-
-Cortana-scripts
+Scripts
 ===============
 
 A list of default scripts <https://github.com/github/hubot/tree/master/src/scripts>.
