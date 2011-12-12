@@ -1,9 +1,8 @@
 {
-  "name":        "hosted-hubot",
+  "name":        "cortana_ai",
   "version":     "0.2.0",
-  "author":      "GitHub Inc.",
-  "keywords":    "github hubot campfire bot",
-  "description": "A simple helpful Robot for your Company",
+  "author":      "Jingwen Owen Ou",
+  "keywords":    "A Hubot for Twitter",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/github/hubot/raw/master/LICENSE"
