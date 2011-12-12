@@ -1,1 +1,1 @@
-app: bin/hubot -a twitter -n Cortana
+web: bin/hubot -a twitter -n cortana_ai
