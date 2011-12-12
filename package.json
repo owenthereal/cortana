@@ -15,10 +15,10 @@
   },
 
   "dependencies": {
-    "hubot": "2.0.5",
+    "hubot": "2.0.7",
     "hubot-scripts": "2.0.3",
     "optparse": "1.0.3",
-    "hubot-twitter": "2.0.2"
+    "hubot-twitter": "git://github.com/jingweno/hubot-twitter.git"
   }
 }
 
