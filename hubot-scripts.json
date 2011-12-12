@@ -1,1 +1,9 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee",
+  "tweet.coffee",
+  "shipit.coffee",
+  "cheer.coffee",
+  "haters.coffee",
+  "likeaboss.coffee",
+  "polite.coffee"
+]
