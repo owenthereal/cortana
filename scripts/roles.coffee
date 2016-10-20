@@ -28,7 +28,7 @@ module.exports = (robot) ->
         if user.roles.length > 0
           msg.send "#{name} is #{user.roles.join(", ")}."
         else
-          msg.send "#{name} is nothing to me."
+          msg.send "#{name} has no roles."
       else if users.length > 1
         msg.send getAmbiguousUserText users
       else
